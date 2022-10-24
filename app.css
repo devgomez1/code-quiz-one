@@ -53,10 +53,10 @@ body {
   }
   
   
-  .btn {
+  .button2 {
     font-size: 1.8rem;
     padding: 1rem 0;
-    width: 20rem;
+    width: 40rem;
     text-align: center;
     border: 0.1rem solid greenyellow;
     margin-bottom: 1rem;
@@ -72,4 +72,20 @@ body {
 
 .sub-nav {
     font-size: 30px;
+}
+
+.question {
+    text-align: center;
+}
+
+.option {
+    font-size: 1.8rem;
+    padding: 1rem 0;
+    width: 15rem;
+    text-align: center;
+    border: 0.1rem solid greenyellow;
+    margin-bottom: 1rem;
+    text-decoration: none;
+    color: greenyellow;
+    background-color: black;
 }
