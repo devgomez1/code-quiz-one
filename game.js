@@ -19,6 +19,7 @@ incorrect.addEventListener('click', () => {
 })
 
 submission.addEventListener("click", () => {
-    var submissions =
+    var submissions = submission.textContent
+    push.submissions(highscores)
 })
 
