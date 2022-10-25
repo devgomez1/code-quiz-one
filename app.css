@@ -89,3 +89,27 @@ body {
     color: greenyellow;
     background-color: black;
 }
+
+.correct {
+    font-size: 1.8rem;
+    padding: 1rem 0;
+    width: 40rem;
+    text-align: center;
+    border: 0.1rem solid greenyellow;
+    margin-bottom: 1rem;
+    text-decoration: none;
+    color: white;
+    background-color: greenyellow;  
+}
+
+.incorrect {
+    font-size: 1.8rem;
+    padding: 1rem 0;
+    width: 40rem;
+    text-align: center;
+    border: 0.1rem solid red;
+    margin-bottom: 1rem;
+    text-decoration: none;
+    color: white;
+    background-color: red;  
+}
