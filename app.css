@@ -113,3 +113,10 @@ body {
     color: white;
     background-color: red;  
 }
+
+.form {
+    width: 60rem;
+    margin-bottom: 30px;
+    height: 40px;
+    font-size: 1.8rem;
+}
