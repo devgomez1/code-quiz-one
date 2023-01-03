@@ -25,4 +25,4 @@ https://propiece.s3-ap-northeast-1.amazonaws.com/product_image/20200729040504-00
 
 ## Links
 
-link to deployed application: https://devgomez1.github.io/code-quiz-one/
+link to deployed application: https://devgomez1.github.io/code-quiz-one/    

@@ -1,4 +1,4 @@
-const correct = document.querySelector ('#correct')
+const correct = document.getElementById('correct');
 const incorrect = document.querySelector ('#incorrect')
 const submission = document.querySelector ('#submission')
 
@@ -22,4 +22,5 @@ submission.addEventListener("click", () => {
     var submissions = submission.textContent
     push.submissions(highscores)
 })
+
 
